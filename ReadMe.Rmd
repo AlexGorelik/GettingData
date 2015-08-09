@@ -1,0 +1,8 @@
+---
+title: "ReadMe"
+author: "Alex Gorelik"
+date: "August 9, 2015"
+output: html_document
+---
+
+A repo for all work related to the Getting and Cleaning Data course in the Data Science track on Coursera
